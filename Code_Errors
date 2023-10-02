@@ -1,1 +1,3 @@
-C
+# Errors in MySQL Workbench 
+
+The initial setup were I connected MySQL Worckbench to MySQL instance was a success, unfortunately was imposible to create a table because the table I created initially to check if it was working persisted, preventing me from creating a new table.
